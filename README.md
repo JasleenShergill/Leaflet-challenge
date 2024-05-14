@@ -27,6 +27,9 @@ The United States Geological Survey (USGS) collects vast amounts of earthquake d
 - Each point has a tooltip with magnitude, location, and depth.
 - All data points load in the correct locations.
 
+## Github Page
+https://jasleenshergill.github.io/Leaflet-challenge/  
+
 ## Dependencies 🛠️
 - Leaflet.js: [https://leafletjs.com/](https://leafletjs.com/)
 - D3.js: [https://d3js.org/](https://d3js.org/)
